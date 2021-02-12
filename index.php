@@ -10,11 +10,11 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-    <title>Onlineforum</title>
+    <title>Online Forum</title>
 </head>
 
 <body>
-
+<!-- kjj -->
     <?php include 'partials/_header.php'; ?>
 
     <?php include 'partials/_dbconnect.php'?>
